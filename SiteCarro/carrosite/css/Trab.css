@@ -1,0 +1,205 @@
+﻿.bloco1 {
+    width: auto;
+    height: 700px;
+}
+
+.topmenu {
+    width: auto;
+    height: 45px;
+    padding-top: 10px;
+    padding-left: 400px;
+    border-bottom: groove;
+    border-bottom-color: black;
+    border-bottom-width: 1px;
+}
+
+.topimg {
+    float: left;
+    padding-right: 20px;
+}
+
+.toptxt {
+    padding-top: 6px;
+    padding-left: 20px;
+    padding-right: 200px;
+    border-left: groove;
+    border-left-color: black;
+    border-left-width: 1px;
+    font-family: Arial;
+    font-size: 12px;
+    float: left;
+    /*color: white;*/
+}
+
+.toptxt2 {
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: bold;
+    padding-top: 6px;
+    padding-left: 20px;
+    float: left;
+    /*color: white;*/
+}
+
+.toptxt2borda {
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: bold;
+    padding-top: 6px;
+    padding-left: 20px;
+    float: left;
+    padding-right: 35px;
+    border-right: groove;
+    border-right-color: black;
+    border-right-width: 1px;
+}
+
+.img1 {
+    width: auto;
+    height: 650px;
+    background-image: url('carro.jpg');
+}
+
+.imgf {
+    background-color: aquamarine;
+    /*background-image: url('f.png');*/
+}
+
+.p1 {
+    color: white;
+    font-family: Arial;
+    font-size: 40px;
+    padding-top: 200px;
+    margin: 0px 0px 0px 500px;
+}
+
+.p2 {
+    color: white;
+    font-family: Arial;
+    font-size: 40px;
+    margin: 0px 0px 0px 500px;
+}
+
+.txt2 {
+    font-weight: bold;
+    color: white;
+    font-family: Arial;
+    font-size: 70px;
+    margin-left: 500px;
+    margin-bottom: 10px;
+}
+
+input[type="button"] {
+    margin-left: 500px;
+    width: 260px;
+    height: 40px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    background-color: #dcba00;
+    border: none;
+}
+
+.quadrado1 {
+    background-image: url('eng.png');
+    width: 250px;
+    height: 300px;
+    margin-left: 500px;
+    margin-top: 60px;
+    float: left;
+}
+
+.quadrado2 {
+    background-image: url('cara.png');
+    width: 250px;
+    height: 300px;
+    margin-left: 30px;
+    margin-top: 60px;
+    float: left;
+}
+
+.quadrado3 {
+  
+    background-image: url('mot.png');
+    width: 250px;
+    height: 300px;
+    margin-left: 30px;
+    margin-top: 60px;
+    float: left;
+}
+
+.quadrado4 {
+    background-image: url('motor.png');
+    width: 250px;
+    height: 300px;
+    margin-left: 30px;
+    margin-top: 60px;
+    float: left;
+}
+
+.chave {
+    background-image: url('key.png');
+    width: 32px;
+    height: 32px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.txtchave {
+    color: white;
+    font-family: Arial;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 150px;
+}
+
+.carrin {
+    background-image: url('carrin.png');
+    width: 32px;
+    height: 32px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.txtcarrin {
+    color: white;
+    font-family: Arial;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 150px;
+    width: 100px;
+}
+
+.engr {
+    background-image: url('gear.png');
+    width: 32px;
+    height: 32px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.txtengr {
+    color: white;
+    font-family: Arial;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 150px;
+    width: 100px;
+}
+
+.raio {
+    background-image: url('raio.png');
+    width: 32px;
+    height: 32px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.txtraio {
+    color: white;
+    font-family: Arial;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 150px;
+    width: 100px;
+}
